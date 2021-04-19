@@ -1,6 +1,6 @@
 # html-ll
 
-![html-ll](https://raw.githubusercontent.com/vs-123/html-ll/main/ll-html-icon.png?token=AES3AMRNEU3BKGUXWYCE6X3APUKOA)
+![html-ll](https://github.com/vs-123/html-ll/blob/main/ll-html-icon.png)
 
 ## Introduction:
 **html-ll** is a lined-language designed for writing descriptive html code with ease.
